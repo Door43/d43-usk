@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[usk:home|Door43 (usk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-usk|d43-usk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-usk/archive/master.zip|d43-usk.zip]]
+
+**Recent Changes**
+{{changes>ns = usk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/usk|Ethnologue data]]
+
